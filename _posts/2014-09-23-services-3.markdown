@@ -1,6 +1,6 @@
 ---
 layout: default
-img: Thunderbird.gif
+img: tbird.png
 category: Services
 title: Globally Minded<br>Thunderbird MBA
 description: |
