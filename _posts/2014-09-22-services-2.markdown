@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.JPG
+img: roadtrip.jpg
 category: Specialties
 title: Fresh Ideas<br> Creative background
 description: |
