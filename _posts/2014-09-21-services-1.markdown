@@ -1,7 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: dog.JPG
 category: Specialties
-title: Software Management Photo:<br>Product, Project & People: |
+title: Globally Minded<br> Thunderbird MBA
+description: |
 ---
-  Software consulting services.  Well versed in SDLC.  Well versed in JIRA
+  Marketing background and jazz.
