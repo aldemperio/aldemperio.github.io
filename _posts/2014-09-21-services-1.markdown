@@ -2,7 +2,7 @@
 layout: default
 img: dog.JPG
 category: Specialties
-title: Globally Minded<br> Thunderbird MBA
+title: Obsessed with Software<br> Experience with Dev & Design
 description: |
 ---
   Marketing background and jazz.
