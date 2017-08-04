@@ -1,8 +1,7 @@
 ---
 layout: default
 img: ipad.png
-category: Services
-title: Death to the Stock Photo:<br>Special Thanks
-description: |
+category: Specialties
+title: Software Management Photo:<br>Product, Project & People: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Software consulting services.  Well versed in SDLC.  Well versed in JIRA
