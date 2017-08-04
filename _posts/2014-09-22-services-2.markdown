@@ -5,4 +5,5 @@ category: Specialties
 title: Fresh Ideas
 description: |
 ---
-  I am insatiably curious about people, and have a unique ability to translate what people say and do into meaningful data.  I have helped brand teams in tech, finance, healthcare, and consumer goods create effective strategies and campaigns.  I love creative writing too: [How to eat the same turkey sandwich for 88 days](http://alisondemperio.blogspot.com/)
+  I am insatiably curious about people, and have a unique ability to translate what people say and do into meaningful data.  I have helped brand teams in tech, finance, healthcare, and consumer goods create effective strategies and campaigns.  
+  I love creative writing too: [How to eat the same turkey sandwich for 88 days](http://alisondemperio.blogspot.com/)
