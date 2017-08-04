@@ -5,6 +5,4 @@ category: Specialties
 title: Fresh Ideas
 description: |
 ---
-  I studied marketing at Northeastern University, and began my career in Voice of the Customer research.  I am insatiably curious about people, and have a unique ability to translate what people say and do into meaningful data.  I have helped brand teams in tech, finance, healthcare, and consumer goods create effective strategies and campaigns.
-  
-I love costume design.  I dabble in graphic art.  I blogged while on a 13,000-mile roadtrip the [Al's Epic Roadtrip](http://alisondemperio.blogspot.com/) <---this was was route.
+  I am insatiably curious about people, and have a unique ability to translate what people say and do into meaningful data.  I have helped brand teams in tech, finance, healthcare, and consumer goods create effective strategies and campaigns.  I love creative writing too: [How to eat the same turkey sandwich for 88 days](http://alisondemperio.blogspot.com/)
