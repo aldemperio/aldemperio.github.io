@@ -2,7 +2,7 @@
 layout: default
 img: dog.JPG
 category: Specialties
-title: Strategy & Insights<br> Fresh Ideas
+title: Fresh Ideas<br> Creative background
 description: |
 ---
   Marketing background and jazz.
