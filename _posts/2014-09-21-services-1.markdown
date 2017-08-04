@@ -2,7 +2,7 @@
 layout: default
 img: dog.JPG
 category: Specialties
-title: Obsessed with Software<br> Experience with Dev & Design
+title: Obsessed with Software<br> Product & Project Management
 description: |
 ---
   Marketing background and jazz.
