@@ -2,7 +2,8 @@
 layout: default
 img: tbird.png
 category: Services
-title: Globally Minded<br>Thunderbird MBA
+title: Globally Minded
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+My MBA from Thunderbird has given me invaluable skills in international strategy.  I travelled to China with my classmates for an immersive Chinese Business experience.  During my internship with Chrysler I developed product strategy for expansion into China.  I constantly see opportunities for growth.    
+I am drawn to diversity, and thrive in cross-cultural communications.
