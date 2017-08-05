@@ -5,4 +5,4 @@ category: Specialties
 title: Obsessed with Software
 description: |
 ---
-  Nothing delights more happy than a beautiful peice of software that makes someone's life easier.  I have shipped five enterprise products, working closely with development and design teams.  I am familiar with both Agile and Waterfall approaches to SDLC.  I provide value through communication, planning, requirements management, process design, and training.  
+  Nothing delights more happy than a beautiful peice of software that makes someone's life easier.  I have shipped five enterprise products, working closely with development and design teams.  I am familiar with both Agile and Waterfall approaches to SDLC.  I provide value through strategy, communication, planning, requirements management, process design, and training.  
