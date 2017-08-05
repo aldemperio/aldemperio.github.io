@@ -2,7 +2,7 @@
 layout: default
 img: IMG_0023.jpg
 category: Specialties
-title: Obsessed with Software<br> Product & Project Management
+title: Obsessed with Software
 description: |
 ---
-  Marketing background and jazz.
+  Nothing delights more happy than a beautiful peice of software that makes someone's life easier.  I have shipped five enterprise products, working closely with development and design teams.  I am familiar with both Agile and Waterfall approaches to SDLC.  I provide value through communication, planning, analysis, process design and training.  
