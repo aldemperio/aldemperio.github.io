@@ -5,5 +5,5 @@ category: Services
 title: Globally Minded
 description: |
 ---
-My MBA from Thunderbird has given me invaluable skills in international strategy.  I travelled to China with my classmates for an immersive Chinese Business experience.  During my internship with Chrysler I developed product strategy for expansion into China.  I constantly see opportunities for growth.    
-I am drawn to diversity, and thrive in cross-cultural communications.
+My MBA from Thunderbird has given me invaluable skills in international strategy.  I travelled to China with classmates for an immersive business experience.  During my internship with Chrysler I developed product strategy for expansion into China.  
+I constantly see opportunities for growth.
