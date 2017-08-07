@@ -6,10 +6,7 @@ url: http://yoursite.com
 title: 
 email: your-email@domain.com
 author: Your Name
-description: > Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+description: > Write an awesome description for your new site here.
 copyright: 'Copyright &copy; 2017 Alison Demperio. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Jekyll theme created by <a href="https://github.com/swcool">Shane Weng</a>.'
 
